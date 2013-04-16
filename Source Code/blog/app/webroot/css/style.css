@@ -1,0 +1,73 @@
+h1 {
+    font-family: arial,sans-serif;
+    font-size: 14px;
+}
+.table_list {
+    width: 100%;
+    border: 1px solid #cef;
+    margin: 1em 0px;
+    text-align: left; 
+    font-size: 12px;
+    font-family: arial,sans-serif;
+}
+.table_list th {
+    font-weight: bold;
+    background-color: #85B5D9;
+    border-bottom: 1px solid #cef; 
+}
+.table_list td,th {
+    padding: 4px 5px; 
+}
+.odd {
+    background-color: #def;
+}
+.odd td {
+    border-bottom: 1px solid #cef;
+}   
+.error {
+    color: red;
+}
+
+.form label {
+    margin-right: 10px;
+}
+
+.form textArea {
+    margin-left: 5px;
+    margin-bottom: 10px;
+}
+
+.form input   {
+    margin-left: 11px;
+    margin-bottom: 10px;
+}
+
+#PostImage {
+    margin-left: 0px;
+}
+
+#tabs {
+    font-size: 12px;
+}
+
+.submit {
+    margin-left: 33px;
+}
+
+.action_bar {
+    font-size: 12px;
+    font-family: arial,sans-serif;
+}
+
+.div-message {
+    font-size: 12px;
+    font-family: arial,sans-serif;
+    text-align: left;
+    font-weight: bold;
+    color: #0a0;
+}
+
+.searchBox {
+    font-size: 12px;
+    font-family: arial,sans-serif;
+}

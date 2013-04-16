@@ -1,0 +1,14 @@
+Display all the posts in the normal view.
+Latest five posts are displaying in the latest view (sidebar).
+
+One post can have multiple comments.
+One post can have many users.
+One comment can have multiple replies form other users,
+........................................................
+Note
+.........................................................
+Due to limited time following tasks were not done.
+Pagination
+Login
+RSS
+Better UI 
